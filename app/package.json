@@ -1,0 +1,25 @@
+{
+  "name": "seedling-app",
+  "version": "0.1.0",
+  "description": "Seedling app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamboo-black/seedling.git"
+  },
+  "keywords": [
+    "seedling",
+    "starter",
+    "project",
+    "app"
+  ],
+  "author": "Bamboo Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bamboo-black/seedling/issues"
+  },
+  "homepage": "https://github.com/bamboo-black/seedling#readme"
+}
